@@ -1,6 +1,6 @@
-# pandas_cheat_sheet
+# Pandas summary sheet
 
-A cheat sheet summarising what I learnt during a Udemy course by Colt Steele on the Python package pandas. https://www.udemy.com/course/python-data-analysis-visualization
+A summary of the Udemy course by Colt Steele on the Python package, Pandas. https://www.udemy.com/course/python-data-analysis-visualization
 
 The .pdf, .tex and accompanying images are included.
 
